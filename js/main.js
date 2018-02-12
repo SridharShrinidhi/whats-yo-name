@@ -1,8 +1,7 @@
 var newName = prompt('What is your name?');
 
-if (newName =='Thomas') {
+if (newName == 'Thomas') {
   alert('Names are the same!');
-}
-else {
+} else {
   alert('Names are different.');
 }
